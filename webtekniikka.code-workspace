@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "WebTekniikat_DomEvents",
+			"path": "../WebTekniikat_DomEvents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webtekniikka"
+	}
+}
